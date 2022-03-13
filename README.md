@@ -1,0 +1,1 @@
+# value-investor-strategy
